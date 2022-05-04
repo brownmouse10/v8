@@ -1,3 +1,3 @@
 # v8
-A v8 brawl stars private server for iOS
+A v8 brawl stars private server for iOS.       
 Work in progress
